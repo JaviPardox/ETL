@@ -10,7 +10,7 @@ Sources:
 
 ## Transform
 
-Data is cleaned using Pandas and SQL Alchemy. 
+Data is cleaned using Pandas and SQL Alchemy. Two tables are used as a common link between both data sets.
 
 ## Load
 
